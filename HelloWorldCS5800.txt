@@ -1,0 +1,16 @@
+0	H	Arial	12	Red
+1	e	Arial	12	Red
+2	l	Arial	12	Red
+3	l	Arial	12	Red
+4	o	Arial	12	Red
+5	W	Calibri	14	Blue
+6	o	Calibri	14	Blue
+7	r	Calibri	14	Blue
+8	l	Calibri	14	Blue
+9	d	Calibri	14	Blue
+10	C	Verdana	16	Black
+11	S	Verdana	16	Black
+12	5	Arial	14	Black
+13	8	Arial	14	Black
+14	0	Arial	14	Black
+15	0	Arial	14	Black
